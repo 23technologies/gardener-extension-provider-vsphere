@@ -8,7 +8,7 @@ require (
 	github.com/gardener/controller-manager-library v0.2.1-0.20200810091329-d980dbe10959
 	github.com/gardener/etcd-druid v0.3.0
 	github.com/gardener/gardener v1.12.3
-	github.com/gardener/machine-controller-manager v0.34.1
+	github.com/gardener/machine-controller-manager v0.34.3
 	github.com/go-logr/logr v0.1.0
 	github.com/gobuffalo/packr/v2 v2.8.0
 	github.com/golang/mock v1.4.4-0.20200731163441-8734ec565a4d
